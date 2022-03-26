@@ -1,0 +1,3 @@
+[submodule "palton_pylib"]
+	path = palton_pylib
+	url = https://github.com/Palt0n/palton_pylib.git
