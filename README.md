@@ -8,3 +8,5 @@ Start Bot
 ```
 python Run_First_Bot.py
 ```
+
+Abandoned decided to use node red telegram bot instead
